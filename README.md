@@ -1,8 +1,8 @@
-```html
+html
 <p align="center">
   <img src="./assets/Banner.png" width="100%" />
 </p>
-```
+
 
 <h3 align="center">Hey, I'm Vitor Hugo! 👋</h3>
 
