@@ -20,13 +20,7 @@ I'm a student and system creator who enjoys turning ideas into functional softwa
   <img src="https://skillicons.dev/icons?i=java,rust,python,cpp,js,ts,react,vite,nodejs,git,github,vscode,blender&theme=dark" />
 </p>
 
-### Featured Projects
-
-- **Horizon** — Open-source Minecraft launcher. 
-- **GM Studio** — A personal project for tabletop RPG management.
-
----
 
 <p align="center">
-  <i>Building things, learning along the way.</i>
+  <i>jackpot.</i>
 </p>
