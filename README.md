@@ -1,50 +1,68 @@
-# Hey, I'm Vitor Hugo! 👋
+```html
+<div align="center">
 
-### Full Stack Developer in Progress · Open Source Enthusiast
+# VITOR HUGO
 
-I'm an aspiring software developer passionate about building things, exploring new technologies, and turning ideas into reality.
+### `DEVIL MAY CODE.`
 
-Currently focused on expanding my knowledge of software engineering, full-stack development, and contributing to open-source projects.
+*Full Stack Developer in progress · Open Source · Side Projects*
+
+[GitHub](https://github.com/YOUR_USERNAME) · [Projects](https://github.com/YOUR_USERNAME?tab=repositories) · [Contact](mailto:YOUR_EMAIL)
+
+</div>
+```
 
 ---
 
-### 🧭 About Me
+```text
+> ABOUT ME
+```
 
-- 💻 Exploring the world of Full Stack Development.
-- 🌱 Constantly learning and experimenting with new technologies.
-- 🔓 Interested in open-source software and community-driven projects.
-- 🛠️ Building personal projects to turn knowledge into practice.
-- 🎯 Working towards becoming a better software engineer every day.
+Hey! I'm a developer in progress who enjoys building things, exploring how software works and occasionally breaking stuff along the way.
 
-### ⚡ Technologies & Tools
+Currently exploring full-stack development, software engineering and open-source collaboration.
 
-**Currently exploring**
+```text
+> CURRENTLY LEARNING
+```
 
-`Java` · `Rust` · `Python` · `JavaScript`
+- Java
+- Rust
+- JavaScript
+- Python
 
-**Tools & Workflow**
+```text
+> WHAT I'M UP TO
+```
 
-`Git` · `GitHub` · `VS Code`
+- Building personal projects and experimenting with ideas.
+- Exploring open-source projects and contributing whenever I can.
+- Learning something new, one commit at a time.
 
-### 🚀 Featured Projects
+```text
+> PROJECTS
+```
 
-A collection of things I'm building, learning from, and contributing to.
+A few things I've been working on.
 
-<!-- Add your best repositories here as they grow. -->
+Check out my pinned repositories below.
 
-### 🌐 Open Source
+```text
+> FIND ME
+```
 
-I believe open source is one of the best ways to learn, collaborate, and build meaningful software.
-
-I'm always looking for opportunities to contribute, learn from other developers, and become part of interesting projects.
-
-### 📫 Let's Connect
-
-I'm open to connecting with developers, collaborating on projects, and exploring new opportunities.
-
-- GitHub: [@Dufru](https://[github.com/YOUR_USERNAME](https://github.com/Dufru/))
+- GitHub: [@Dufru]((https://github.com/Dufru/))
 - Email: vitorhugolima945@gmail.com
 
 ---
 
-<sub>Always learning. Always building. Always curious. ✨</sub>
+<div align="center">
+
+`STAY MOTIVATED. KEEP BUILDING.`
+
+*Jackpot.*
+
+</div>
+
+
+
