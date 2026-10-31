@@ -1,10 +1,10 @@
 ```html
 <p align="center">
-  <img src="./assets/banner.png" width="100%" />
+  <img src="./Banner.png" width="100%" />
 </p>
 ```
 
-<h3 align="center">Hey, I'm Vitor! 👋</h3>
+<h3 align="center">Hey, I'm Vitor Hugo! 👋</h3>
 
 <p align="center">
   Information Systems student · 5th semester
