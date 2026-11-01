@@ -1,11 +1,4 @@
 <p align="center">
-  <img src="./assets/Banner.png" width="100%" />
-</p>
-
-
-<h3 align="center">Hey, I'm Vitor Hugo! 👋</h3>
-
-<p align="center">
   Information Systems student · 5th semester
 </p>
 
