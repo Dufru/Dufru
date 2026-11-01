@@ -1,6 +1,13 @@
-<p align="center">
-  Information Systems student · 5th semester
-</p>
+<div align="center">
+
+# Vitor Hugo (Dufru)
+*Backend Developer & System Creator*
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vitorhugo-lima)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dufru)
+
+---
+
 
 I'm a student and system creator who enjoys turning ideas into functional software. I like exploring new technologies, building personal projects and contributing to open-source projects.
 
